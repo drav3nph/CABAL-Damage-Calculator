@@ -1,0 +1,16 @@
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage Calculator.csproj.GenerateResource.Cache
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Damage_Calculator_EXT.exe.config
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Damage_Calculator_EXT.exe
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Damage_Calculator_EXT.pdb
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.dll
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Net.Http.xml
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.Properties.Resources.resources
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.exe
+C:\Users\Drei10\Desktop\Cabal-Calculator\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.pdb
+C:\Users\Drei10\Desktop\My Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Damage_Calculator_EXT.exe.config
+C:\Users\Drei10\Desktop\My Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.exe
+C:\Users\Drei10\Desktop\My Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.pdb
+D:\_uncategorized\My Project\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Damage_Calculator_EXT.exe.config
+D:\_uncategorized\My Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.exe
+D:\_uncategorized\My Project\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Damage_Calculator_EXT.pdb
